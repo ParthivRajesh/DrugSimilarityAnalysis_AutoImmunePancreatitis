@@ -38,9 +38,8 @@ Prednisone, a synthetic corticosteroid, is commonly prescribed for managing AIP.
 This project demonstrates the power of computational tools in identifying structurally similar drugs. By combining 2D fingerprint analysis with 3D spatial alignment, a well-rounded approach to molecular similarity evaluation was achieved. The findings provide insights into potential prednisone alternatives for AIP and pave the way for further research in drug discovery.
 
 ## Repository Contents
-- `workflow/`: KNIME workflows for 2D and 3D analyses.
+- `workflow/ and visualisation/`: KNIME workflows for 2D and 3D analyses and scatter plots, heatmaps, including other graphical results
 - `data/`: Processed and raw datasets used in the study.
-- `visualizations/`: Scatter plots, heatmaps, and other graphical results.
 - `results/`: Summary tables of identified similar compounds.
 
 ## How to Use
