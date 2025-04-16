@@ -49,6 +49,3 @@ This project demonstrates the power of computational tools in identifying struct
    ```
 2. Follow the instructions in the `workflow/README.md` to set up and execute the KNIME workflows.
 3. Review the results and visualizations in their respective directories.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
